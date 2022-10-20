@@ -1,7 +1,7 @@
 function countingValleys(steps, path) {
     
- let counter = 0
-    let valleyCount = 0
+ const counter = 0
+ let valleyCount = 0
 
     for(let i=0;i<=steps;i++){
         
